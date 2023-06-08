@@ -10,6 +10,6 @@ O projeto seguirá as diretrizes de cobertura vacinal utilizando-se de dados de 
   - Manoel José da Silva Junior 		RA: 1282118697
   - Pedro Felipe Nascimento Hidalgo 	RA: 52115812
   - Ryan Talysson José Alves de Oliveira 	RA: 1282017169
-  - 
+  
 # Link da apresentação: 
   - https://youtu.be/8fLvV4_RnpU 
